@@ -3,7 +3,7 @@
 ## **THÀNH VIÊN NHÓM 1**
 Tên thành viên | MSSV | Github 
    ----------|------------|------------ 
-   Đặng Văn Minh| 1952 | [__*Đặng Văn Minh*__](https://github.com/DangMinh21)
+   Đặng Văn Minh| 19521832 | [__*Đặng Văn Minh*__](https://github.com/DangMinh21)
    Phạm Minh Long | 19521797 | [__*Phạm Minh Long*__](https://github.com/HUNDRED3421)
    Trương Thị Kim Thoa | 19522295 | [__*Trương Thị Kim Thoa*__](https://github.com/kimthoa16052001) 
    
