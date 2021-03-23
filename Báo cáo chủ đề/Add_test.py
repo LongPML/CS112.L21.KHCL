@@ -18,7 +18,7 @@ class TestAdd(unittest.TestCase):
                 for _ in range(100):                   #Random 100 cases
                     x=random.randint(-100,100)
                     y=random.randint(-100,100)
-                    self.assertEqual(Add(x,y), x+y)
+                    self.assertEqual(Add(x,y), x+y)    #Comparision with a true function
                     f_in.write('\n{} {}'.format(x,y))
                     f_out.write('\n{}'.format(Add(x,y)))
 
