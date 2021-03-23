@@ -6,4 +6,4 @@
   - Programming: cài đặt chương trình bằng NNLT Python, nộp tại [Wecode](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/3) 
 
 >1. [__*Tảo Biển*__]()
->2. [__*BOT*__]()
+>2. [__*BOT*__](https://github.com/HUNDRED3421/CS112.L21.KHCL/blob/main/Homework/Week_1/BOT.ipynb)
