@@ -1,1 +1,18 @@
+# PROGRAM TESTING
 
+## Nội dung
+  - [Slide thuyết trình]()
+  - [Quá trình]()
+  - Bài tập về nhà: Thực hiện tạo bộ dữ liệu 100 Test case cho bài [Tảo biển](https://raw.githubusercontent.com/HUNDRED3421/CS112.L21.KHCL/main/Homework/Week_1/Tao_Bien.png)
+
+## Bài tập ví dụ
+> Viết hàm kiểm tra chương trình cộng 2 số:
+  - [Add](https://github.com/HUNDRED3421/CS112.L21.KHCL/blob/main/B%C3%A1o%20c%C3%A1o%20ch%E1%BB%A7%20%C4%91%E1%BB%81/Add.py) Function
+  - [Add_test](https://github.com/HUNDRED3421/CS112.L21.KHCL/blob/main/B%C3%A1o%20c%C3%A1o%20ch%E1%BB%A7%20%C4%91%E1%BB%81/Add_test.py)
+  - Example [Add.in](https://github.com/HUNDRED3421/CS112.L21.KHCL/blob/main/B%C3%A1o%20c%C3%A1o%20ch%E1%BB%A7%20%C4%91%E1%BB%81/Add.in) file
+  - Example [Add.out](https://github.com/HUNDRED3421/CS112.L21.KHCL/blob/main/B%C3%A1o%20c%C3%A1o%20ch%E1%BB%A7%20%C4%91%E1%BB%81/Add.out) file
+  
+## Tài liệu tham khảo
+  - [Test Generation Plan](https://www.codechef.com/wiki/test-generation-plan)
+  - [Software Testing Tutorial: Free QA Course](https://www.guru99.com/software-testing.html?fbclid=IwAR1NCk71s6d34anY_8VMiw9WaC67aOdtGQCHwbhPmXvcklEqRyo_aqJseRw)
+  - [Tự code, tự chấm, tự sướng - Bí kíp thi offline](https://vnoi.info/wiki/algo/skill/viet-trinh-cham.md?fbclid=IwAR3DrHDvihmdzDAX5upkvDNIEiPefPG8tRM9H4WTgM9etJpr1uYtekbsPNo)
