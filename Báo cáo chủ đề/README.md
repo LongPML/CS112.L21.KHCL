@@ -3,7 +3,7 @@
 ## Nội dung
   - [Slide thuyết trình]()
   - [Quá trình]()
-  - Bài tập về nhà: Thực hiện tạo bộ dữ liệu 100 Test case cho bài [Tảo biển](https://raw.githubusercontent.com/HUNDRED3421/CS112.L21.KHCL/main/Homework/Week_1/Tao_Bien.png)
+  - Bài tập về nhà: Thực hiện tạo bộ dữ liệu 100 Test case cho bài [Tảo biển](https://raw.githubusercontent.com/HUNDRED3421/CS112.L21.KHCL/main/Homework/Week_1/Tao_Bien.png) lưu trong 2 files định dạng Tao.in và Tao.out tương ứng với input và output.
 
 ## Bài tập ví dụ
 > Viết hàm kiểm tra chương trình cộng 2 số:
