@@ -1,7 +1,7 @@
 # PROGRAM TESTING
 
 ## Nội dung
-  - [Slide thuyết trình]()
+  - [Slide thuyết trình](https://github.com/HUNDRED3421/CS112.L21.KHCL/blob/main/B%C3%A1o%20c%C3%A1o%20ch%E1%BB%A7%20%C4%91%E1%BB%81/Program_Testing.pdf)
   - [Quá trình](https://github.com/HUNDRED3421/CS112.L21.KHCL/blob/main/B%C3%A1o%20c%C3%A1o%20ch%E1%BB%A7%20%C4%91%E1%BB%81/Process.txt)
   - Bài tập về nhà: Thực hiện tạo bộ dữ liệu 100 Test case cho bài [Tảo biển](https://github.com/HUNDRED3421/CS112.L21.KHCL/blob/main/B%C3%A1o%20c%C3%A1o%20ch%E1%BB%A7%20%C4%91%E1%BB%81/Tao_Bien.png) lưu trong 2 files định dạng Tao.in và Tao.out tương ứng với input và output.
 
