@@ -16,7 +16,7 @@ Cách tạo bộ test: tập trung vào 2 phần
 
 	**Test hiệu năng:
 - Nới rộng bộ dữ liệu, làm dữ liệu lớn dần, xem chương trình bung ở chỗ nào.
-- Ví dụ: đăng kí học phần
+- Ví dụ: đăng kí học phần. 
 
 Làm slice
 - Software test nói chung
