@@ -9,8 +9,7 @@
 > Viết hàm kiểm tra chương trình cộng 2 số:
   - [Add](https://github.com/HUNDRED3421/CS112.L21.KHCL/blob/main/B%C3%A1o%20c%C3%A1o%20ch%E1%BB%A7%20%C4%91%E1%BB%81/Add.py) Function
   - [Add_test](https://github.com/HUNDRED3421/CS112.L21.KHCL/blob/main/B%C3%A1o%20c%C3%A1o%20ch%E1%BB%A7%20%C4%91%E1%BB%81/Add_test.py)
-  - Example [Add.in](https://github.com/HUNDRED3421/CS112.L21.KHCL/blob/main/B%C3%A1o%20c%C3%A1o%20ch%E1%BB%A7%20%C4%91%E1%BB%81/Add.in) file
-  - Example [Add.out](https://github.com/HUNDRED3421/CS112.L21.KHCL/blob/main/B%C3%A1o%20c%C3%A1o%20ch%E1%BB%A7%20%C4%91%E1%BB%81/Add.out) file
+
   
 ## Tài liệu tham khảo
   - [Test Generation Plan](https://www.codechef.com/wiki/test-generation-plan)
