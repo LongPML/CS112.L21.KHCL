@@ -19,8 +19,8 @@ class TestAdd(unittest.TestCase):
                     x=random.randint(-100,100)
                     y=random.randint(-100,100)
                     self.assertEqual(Add(x,y), x+y)    # Comparision with a true function
-                    f_in.write('\n{} {}'.format(x,y))
-                    f_out.write('\n{}'.format(Add(x,y)))
+                    f_in.write('{} {}'.format(x,y))
+                    f_out.write('{}'.format(Add(x,y)))
 
 if __name__ == "__main__":
     unittest.main()
