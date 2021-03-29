@@ -5,5 +5,5 @@
   - Đánh giá độ phức tạp thuật toán
   - Programming: cài đặt chương trình bằng NNLT Python, nộp tại [Wecode](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/3) 
 
->1. [__*Tảo Biển*__](https://github.com/HUNDRED3421/CS112.L21.KHCL/blob/main/Homework/Week_1/TaoBien.ipynb)
->2. [__*BOT*__](https://github.com/HUNDRED3421/CS112.L21.KHCL/blob/main/Homework/Week_1/BOT.ipynb)
+>1. [__*Tảo Biển*__](https://github.com/HUNDRED3421/CS112.L21.KHCL/blob/main/Homework/Assignment%20%231/TaoBien.ipynb)
+>2. [__*BOT*__](https://github.com/HUNDRED3421/CS112.L21.KHCL/blob/main/Homework/Assignment%20%231/BOT.ipynb)
