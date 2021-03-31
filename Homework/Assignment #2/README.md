@@ -4,3 +4,6 @@
   - Algorithm Designed: thuật toán để giải quyết bài toán (trình bày bằng mã giả/ lưu đồ)
   - Đánh giá độ phức tạp thuật toán
   - Programming: cài đặt chương trình bằng NNLT Python, nộp tại [Wecode](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/4) 
+
+>1. [__*H_index*__](https://github.com/HUNDRED3421/CS112.L21.KHCL/blob/main/Homework/Assignment%20%232/H_Index.png)
+>2. [__*Khóa Số*__](https://github.com/HUNDRED3421/CS112.L21.KHCL/blob/main/Homework/Assignment%20%232/Khoa_So.png)
