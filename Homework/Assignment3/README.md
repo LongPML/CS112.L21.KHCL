@@ -6,4 +6,4 @@
   - Programming: cài đặt chương trình bằng NNLT Python, nộp tại [Wecode](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/8) 
 
 >1. [__*Đổi mới*__]()
->2. [__*Số Nguyên Mới*__](Homework\Assignment3\So_nguyen_moi.ipynb)
+>2. [__*Số Nguyên Mới*__]()
