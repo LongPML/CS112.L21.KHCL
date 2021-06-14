@@ -4,7 +4,7 @@
 2. Cách kiểm tra toàn bộ chương trình?
 	- Test nhiều chương trình con thành chương trình lớn.
 
-# Cách tạo bộ test: tập trung vào 2 phần
+## Cách tạo bộ test: tập trung vào 2 phần
 > Test tính đúng
 - Xem có bao nhiêu tình huống xảy ra, mỗi tình huống cho it nhất 1 test case
 - Trường hợp:
@@ -15,10 +15,10 @@
 	+ Có thể sử dụng bất cứ ngôn ngữ nào.
 
 > Test hiệu năng:
-- Nới rộng bộ dữ liệu, làm dữ liệu lớn dần, xem chương trình bung ở chỗ nào.
+- Nới rộng bộ dữ liệu, làm dữ liệu lớn dần, xem chương trình bug ở chỗ nào.
 - Ví dụ: đăng kí học phần. 
 
-# Làm slice
+## Làm slice
 - Software test nói chung
 - Tập trung vào 2 test;
 	+ Hiệu năng

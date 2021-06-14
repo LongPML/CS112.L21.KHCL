@@ -5,7 +5,15 @@
   - [Quá trình](https://github.com/LongPML/CS112.L21.KHCL/blob/main/Project_Unit_Test/Process.txt)
 ## Bài tập về nhà: 
 - Thực hiện tạo bộ dữ liệu Test case cho bài [Tảo biển](https://github.com/LongPML/CS112.L21.KHCL/blob/main/Project_Unit_Test/Tao_Bien.png). 
-- Bài nộp gồm 1 file zip (Vd: CS112.L21.KHCL.N01) có 2 folder tên input và output chứ nhiều test case (không giới hạn số lượng). Mỗi test case lưu trong 1 files được định dạng (Vd: Tao1.in) đối với folder input và (Vd: Tao1.out) tương ứng đối với folder output. Xem bài tập ví dụ để hiểu rõ hơn định dạng.
+- Bài nộp gồm 1 folder tên nhóm bên trong gồm có:
+  + 1 folder input bên trong gồm có các file:
+    + input1: file txt (tương ứng duy nhất 1 test case) 
+    + input2:
+    + .........
+  - 1 folder output bên trong gồm có các file:
+    + output1: (là output tương ứng cho input1)
+    + output2: 
+    + output.....
 - Nộp bài qua mail: 19522295@gm.uit.edu.vn 
 - Deadline: 23:59:59 3/4/2021
 
