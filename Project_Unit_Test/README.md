@@ -2,10 +2,10 @@
 
 ## Nội dung
   - [Slide thuyết trình](https://github.com/LongPML/CS112.L21.KHCL/blob/main/Project_Unit_Test/Program_Testing.pdf)
-  - [Quá trình](https://github.com/LongPML/CS112.L21.KHCL/blob/main/Project_Unit_Test/Process.txt)
+  - [Quá trình](https://github.com/LongPML/CS112.L21.KHCL/blob/main/Project_Unit_Test/Process.md)
 ## Bài tập về nhà: 
 - Thực hiện tạo bộ dữ liệu Test case cho bài [Tảo biển](https://github.com/LongPML/CS112.L21.KHCL/blob/main/Project_Unit_Test/Tao_Bien.png). 
-- Bài nộp gồm 1 folder tên nhóm bên trong gồm có:
+- Bài nộp gồm 1 folder tên nhóm bên trong gồm có:
   + 1 folder input bên trong gồm có các file:
     + input1: file txt (tương ứng duy nhất 1 test case) 
     + input2:
@@ -13,7 +13,7 @@
   - 1 folder output bên trong gồm có các file:
     + output1: (là output tương ứng cho input1)
     + output2: 
-    + output.....
+    + output.....
 - Nộp bài qua mail: 19522295@gm.uit.edu.vn 
 - Deadline: 23:59:59 3/4/2021
 
