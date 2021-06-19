@@ -2,7 +2,7 @@
 1. Viết chương trình kiểm tra dài hơn viết code? Có cách nào thực hiện test nhanh hơn không?
 	- Khi tham gia các dự án, số lượng hàm và code rất nhiều. Để thuận tiện cho việc kiểm tra, unit test ra đời.
 2. Cách kiểm tra toàn bộ chương trình?
-	- Test nhiều chương trình con thành chương trình lớn.
+	- Test nhiều chương trình con gộp thành chương trình lớn.
 
 ## Cách tạo bộ test: tập trung vào 2 phần
 > Test tính đúng
@@ -28,9 +28,9 @@
 	+ Các bước để tạo test case
 	+ Các điều cần lưu ý khi tạo test case
 
-Nhiệm vụ: Kiểm tra bộ test của các bạn
+> Nhiệm vụ: Kiểm tra bộ test của các bạn
 
-Điểm cộng phát biểu: Nhóm 10, Nhóm 7, Nhóm 4, Nhóm 3, Nhóm 9
+> Điểm cộng phát biểu: Nhóm 10, Nhóm 7, Nhóm 4, Nhóm 3, Nhóm 9
 
 # BTVN
 > Các nhóm nộp BTVN: N03, N06, N07, N09, N10. Nhận xét: 
