@@ -22,6 +22,8 @@
   - [Add](https://github.com/LongPML/CS112.L21.KHCL/blob/main/Project_Unit_Test/Add.py) Function
   - [Add_test](https://github.com/LongPML/CS112.L21.KHCL/blob/main/Project_Unit_Test/Add_test.py)
   - Files nộp bài tham khảo [CS112.L21.KHCL.N01](https://github.com/LongPML/CS112.L21.KHCL/raw/main/Project_Unit_Test/CS112.L21.KHCL.N01.rar)
+
+> Tương tự với bài [Đường bậc thang](https://github.com/LongPML/CS112.L21.KHCL/blob/main/Project_Unit_Test/DuongBacThang.png) với [DBT.py](https://github.com/LongPML/CS112.L21.KHCL/blob/main/Project_Unit_Test/DBT.py) chứa các giải thuật và [DBT_test.py](https://github.com/LongPML/CS112.L21.KHCL/blob/main/Project_Unit_Test/DBT_test.py) để sinh bộ testcases.
   
 ## Tài liệu tham khảo
   - [Test Generation Plan](https://www.codechef.com/wiki/test-generation-plan)
